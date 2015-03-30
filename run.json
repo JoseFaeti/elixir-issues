@@ -1,0 +1,10 @@
+{
+    "run": ["system"],
+    "config": {
+        "system": {
+            "command": "elixir",
+            "-arguments": ["/C", "path"],
+            "-arguments": ["test/test_task_runner_test.exs"]
+        }
+    }
+}

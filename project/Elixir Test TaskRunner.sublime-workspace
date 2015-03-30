@@ -1,0 +1,1547 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"physi",
+				"PHYSICS_SCALE"
+			],
+			[
+				"playe",
+				"playerUnitCode"
+			],
+			[
+				"turre",
+				"turretAI"
+			],
+			[
+				"IPla",
+				"IPlayerControl"
+			],
+			[
+				"mech",
+				"mechNumber"
+			],
+			[
+				"batt",
+				"BattlePhysics"
+			],
+			[
+				"Dispos",
+				"DisposeBullet"
+			],
+			[
+				"Dispo",
+				"DisposeBullet"
+			],
+			[
+				"bulletf",
+				"BulletFactory"
+			],
+			[
+				"flamethr",
+				"flamethrowerRenderer"
+			],
+			[
+				"flameth",
+				"FLAMETHROWER"
+			],
+			[
+				"fireim",
+				"fireImageName"
+			],
+			[
+				"IWeap",
+				"IWeaponCallback"
+			],
+			[
+				"lcannon",
+				"LaserCannon"
+			],
+			[
+				"missi",
+				"MissileLauncher"
+			],
+			[
+				"missil",
+				"missileLauncherInstance"
+			],
+			[
+				"machi",
+				"machinegunInstance"
+			],
+			[
+				"fth",
+				"flamethrower"
+			],
+			[
+				"m",
+				"MissileLauncher"
+			],
+			[
+				"wea",
+				"WeaponFactory"
+			],
+			[
+				"unitco",
+				"unitCollisionRadius"
+			],
+			[
+				"BATTLESTATE_FA",
+				"BATTLESTATE_FADING_OUT"
+			],
+			[
+				"laser",
+				"LASER_CANNON"
+			],
+			[
+				"bull",
+				"bulletFactory"
+			],
+			[
+				"curr",
+				"currentObject"
+			],
+			[
+				"des",
+				"DestroyBody"
+			],
+			[
+				"cre",
+				"CreateFixture2"
+			],
+			[
+				"TILE",
+				"TILE_SIZE"
+			],
+			[
+				"fi",
+				"_fixture"
+			],
+			[
+				"desir",
+				"desiredYVelocity"
+			],
+			[
+				"news",
+				"newSpeedX"
+			],
+			[
+				"setc",
+				"SetCurrentSpeed"
+			],
+			[
+				"cur",
+				"currentSpeedY"
+			],
+			[
+				"newy",
+				"newY"
+			],
+			[
+				"current",
+				"currentSpeedX"
+			],
+			[
+				"currents",
+				"currentSpeedX"
+			],
+			[
+				"CheckUnitColl",
+				"CheckUnitCollisionWithOtherUnits"
+			],
+			[
+				"CheckUnit",
+				"CheckUnitCollisionWithBattlefieldWalls"
+			],
+			[
+				"movedi",
+				"moveDist1"
+			],
+			[
+				"che",
+				"CheckUnitCollisionWithBattlefieldObstacles"
+			],
+			[
+				"obstacl",
+				"obstaclePosition"
+			],
+			[
+				"curre",
+				"currentSpeedX"
+			],
+			[
+				"curren",
+				"currentSpeedX"
+			],
+			[
+				"osba",
+				"obstaclePosition"
+			],
+			[
+				"ca",
+				"cachedBattlefieldRendering"
+			],
+			[
+				"getcu",
+				"GetCurrentSpeedY"
+			],
+			[
+				"direction",
+				"GetDirectionAngle"
+			],
+			[
+				"SCREEN",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"lorem",
+				"lorem	Lorem ipsum"
+			],
+			[
+				"shadow",
+				"shadowbox_setup"
+			],
+			[
+				"wabi_",
+				"wabi_countdown_timer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/monkey.sublime-master/Perl Task Runner.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tm",
+				"View: Toggle Menu"
+			],
+			[
+				"smonkey",
+				"Set Syntax: Monkey"
+			],
+			[
+				"gitstatus",
+				"Git: Status"
+			],
+			[
+				"setuser",
+				"Preferences: Settings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"tme",
+				"View: Toggle Menu"
+			],
+			[
+				"smo",
+				"Set Syntax: Monkey"
+			],
+			[
+				"smonk",
+				"Set Syntax: Monkey"
+			],
+			[
+				"syntax mo",
+				"Set Syntax: Monkey"
+			],
+			[
+				"",
+				"File: Close All"
+			],
+			[
+				"tmen",
+				"View: Toggle Menu"
+			],
+			[
+				"setdefa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"setde",
+				"Preferences: Settings - Default"
+			],
+			[
+				"syntaxmo",
+				"Set Syntax: Monkey"
+			],
+			[
+				"syntmon",
+				"Set Syntax: Monkey"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"tmenu",
+				"View: Toggle Menu"
+			],
+			[
+				"togglesta",
+				"View: Toggle Status Bar"
+			],
+			[
+				"tmi",
+				"View: Toggle Minimap"
+			],
+			[
+				"tta",
+				"View: Toggle Tabs"
+			],
+			[
+				"tmeu",
+				"View: Toggle Menu"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:py",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 420.0,
+		"history":
+		[
+			"view.settings().get(\"tabSize\")",
+			"view.settings().set(\"tabSize\", 4)",
+			"view.settings().get(\"tabSize\")",
+			"view.settings()",
+			"view.settings",
+			"view.options()",
+			"view.options",
+			"view",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"exec --help",
+			"exec -help",
+			"exec -h",
+			"exec \"1\";",
+			"exec 1;",
+			"exec ls;",
+			"exec var",
+			"exec \"ls\"",
+			"exec ls",
+			"exec",
+			"ls",
+			"?",
+			"help",
+			"python",
+			"for n in view.settings():",
+			"for n in view.settings()",
+			"view.settings().each",
+			"view.settings().get('font_face')",
+			"view.settings()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Downloads/Elixir/README.md",
+		"/D/Wabisabi/Siti/GM Hotels/2014/mobile/layout-b/src/tpl/booking.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/mobile/layout-b/src/tpl/template_pagine_mobile.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/mobile/layout-b/project/GM Hotels 2014 - mobile - layout B.sublime-project",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/form_prenotazione.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/template_pagine.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/recensioni/box_recensioni.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/languages/languages.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/wabi/commons/navigation/navigation_item.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/styles.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/scripts.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/js/scripts.js",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/css/style.css",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/template_pagine.tpl--",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/pagine/background.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/left_column.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/contacts.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/languages/languages-2.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/wabi/commons/navigation/navigation.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/prodotti/no_more_product.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/pagine/item_vetrina.tpl----------non piu usto",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/email/email_notifica_cliente.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/meta_property_article.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/main_gallery.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/documenti/documenti.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/recensione.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/js/owl-carousel/owl.transitions.css",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/og_image.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/prodotti/socials.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/recensioni/recensione.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/recensioni.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/css/wirefy/base.css",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/recensioni/dettaglio_recensione.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/photogallery/div_image.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/photogallery/thumb_2.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/wabi/commons/search/search.tpl",
+		"/D/Wabisabi/Siti/Hotel Imperiale/2014/desktop/src/tpl/recensioni.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/homepage_showcase.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/highlights_showcase.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/label.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/project/GM Hotels 2014 - desktop - layout B.sublime-project",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/meta_property_og.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/recensioni/recensione1.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/recensioni/recensioni.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/box_recensioni.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/recensioni_recall.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/facebook_like.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/facebook_facepile.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/components/image.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/components/iframe.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/components/div.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/dettaglio_articolo.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/photogallery/thumb_1.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/photogallery/thumb.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/photogallery/photogallery.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/css/PIE.htc",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/js/owl-carousel/owl.theme.css",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/homepage_showcase_item.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/photogallery/lista_album.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/prodotti/template_m.tpl",
+		"/D/Wabisabi/Siti/GM Hotels/2014/desktop/layout-b/src/tpl/photogallery/link_image.tpl",
+		"/D/Wabisabi/Siti/Hotel dell'Amarissimo/2014/desktop/src/tpl/product_info_form.tpl",
+		"/D/Wabisabi/Siti/Hotel dell'Amarissimo/2014/desktop/src/tpl/components/input.tpl",
+		"/D/Wabisabi/Siti/Hotel dell'Amarissimo/2014/desktop/src/tpl/components/iframe.tpl",
+		"/D/Wabisabi/Siti/Hotel dell'Amarissimo/2014/desktop/src/tpl/highlights_showcase.tpl",
+		"/D/Wabisabi/Siti/Hotel dell'Amarissimo/2014/desktop/src/tpl/homepage_showcase_item.tpl",
+		"/D/Wabisabi/Siti/Hotel dell'Amarissimo/2014/desktop/src/tpl/form_contatti.tpl",
+		"/D/Wabisabi/Siti/Hotel dell'Amarissimo/2014/desktop/src/tpl/facebook_facepile.tpl",
+		"/D/Wabisabi/Siti/Hotel dell'Amarissimo/2014/desktop/project/Hotel dell'Amarissimo 2014 - desktop.sublime-project",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/build.gradle",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/build (Jose's conflicted copy 2014-10-29).json",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build.gradle",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/gui/guilabel.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/res/debug/values/values.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/res/debug/layout/abc_activity_chooser_view_list_item.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/gui/virtualbutton.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/engine/events/ievent.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/interfaces/ientity.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/app.iml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/res/debug/layout/abc_popup_menu_item_layout.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/ai.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/data/layouts/StateUnitSelection.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/monkey/data/layouts/StateUnitSelection.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/main.data/layouts/StateUnitSelection.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/res/debug/layout/abc_action_mode_bar.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/engine/core/core (ASUS-Jose's conflicted copy 2014-10-29).monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/res/debug/values-fr-rCA/values.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/res/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/rendering/rendering.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.taskrunner/run.data.json",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/particles/particle.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/particles/particles.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/constants.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/engine/engine.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/entity.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/sublime/Progetto Mech Action RPG.sublime-project",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/player.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/drawable/abc_ic_clear.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/res/release/layout/abc_activity_chooser_view_list_item.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/.gradle/1.12/taskArtifacts/cache.properties.lock",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/.gradle/1.12/taskArtifacts/cache.properties",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/proguard-rules.pro",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/monkey/player.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/particles/iparticle.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/particles/functions.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.taskrunner/run.log",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/outputs/apk/app-release-unaligned.apk",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/interfaces/iweapon.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/input/iinputcontroller.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/weapon.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/debugbattledatarenderer.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/modules/engine/core/core.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-et-rEE/values.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/.idea/compiler.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/monkey/coordinates.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/monkey/constants.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/engine/core/core.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/gradlew",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/stateunitselection.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/main.build/html5/data/layouts/StateUnitSelection.xml",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/statemainmenu.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/interfaces/ilegunit.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/util/iobserver.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/monkey/bullet.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/monkey/battlefield.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/html5/MonkeyGame.html",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/.monkey_build/output/movement.monkey",
+		"/C/Users/Jose/Dropbox/Oscar Wings/Mech Action RPG/src/android/Destroyetor/app/build/intermediates/res/debug/drawable/abc_ic_clear.xml"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Wabisabi\\Siti",
+			"<project>",
+			"D:\\Wabisabi\\Siti\\Le Cortesie\\2013\\desktop\\tpl",
+			"C:\\Users\\Jose\\Dropbox\\Wabisabi\\Siti\\Le Cortesie\\",
+			"C:\\Users\\Jose\\Dropbox\\Wabisabi\\Siti\\Le Cortesie",
+			"C:\\Users\\Jose\\Dropbox\\Wabisabi\\Siti"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"> .content",
+			"column-page-content",
+			"data-",
+			"datepicker",
+			".top-row",
+			".label-button",
+			"top-bar",
+			"#page-content",
+			".languages",
+			".navigation",
+			"vat",
+			"\"newslett",
+			".newsletter",
+			"#column-page-content",
+			".newsletter",
+			"vat",
+			"#secondary-column",
+			".socials",
+			"href_so",
+			"socials",
+			".review-box",
+			"review",
+			"black-t",
+			".style-b",
+			"#column-page-content",
+			"recensioni",
+			"#top-bar",
+			"content-fader",
+			".languages",
+			".main-container",
+			"email",
+			".gallery .thum",
+			".gallery",
+			".photogallery",
+			"column-page-content",
+			".main-container",
+			"#top-bar",
+			".content-column",
+			"layout",
+			"loadfromxml",
+			"print",
+			"log",
+			"debug ",
+			"onbulletfi",
+			"createparticle",
+			"loadimage",
+			"createparticle",
+			"new particle",
+			"renderparticles",
+			"particle",
+			"fire",
+			"interfaces.iweapon",
+			"loadfromxml",
+			"bullets",
+			"First",
+			"orientation",
+			"unitrenderer",
+			"controller",
+			"CreateWalls",
+			"battlefield",
+			"renderer",
+			"WALL",
+			"render",
+			"wallHalfThickness",
+			"render",
+			"wallThickness",
+			"physScale",
+			"physsc",
+			"world",
+			"startnewba",
+			"isdead",
+			"startnewb",
+			"createwe",
+			"fire",
+			"update",
+			"killunit",
+			"simulation",
+			"getphy",
+			"render",
+			"debugrenderer",
+			"shape",
+			"clearbat",
+			"startnewba",
+			"createunit",
+			"battlestate",
+			"fire",
+			"battlestate",
+			"type",
+			"obstacl",
+			"const",
+			"turretai",
+			"clearbat",
+			"newba",
+			"iweapon",
+			"type",
+			"createunit",
+			"disposebu",
+			"ai",
+			"WALL_THICKNESS",
+			"update",
+			"killunit",
+			"unit_died",
+			"drawdebugdata",
+			"HUMAN_CONTROL",
+			"unit",
+			"getunit",
+			"nomovement",
+			"isdead",
+			"update",
+			"startnewba",
+			"createunit",
+			"addlast",
+			"createunit",
+			"createrandomba",
+			"startnewba",
+			"explosion",
+			"createun",
+			"new",
+			"d render",
+			"update",
+			"214",
+			"newba",
+			"poweru",
+			"defaultunit",
+			"obstacle",
+			"filter",
+			"categoryBits",
+			"disposebul"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"WALL_HALF_THICKNESS",
+			"wallHalfThickness",
+			"PHYSICS_SCALE",
+			"CreateUnit",
+			"import "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 653.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 136.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/monkey.sublime-master/Perl Task Runner.sublime-build",
+	"project": "Elixir Test TaskRunner.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tpagin",
+				"src\\tpl\\template_pagine_mobile.tpl"
+			],
+			[
+				"tpag--",
+				"src\\tpl\\template_pagine.tpl--"
+			],
+			[
+				"style",
+				"src\\css\\style.css"
+			],
+			[
+				"scriptl",
+				"src\\tpl\\scripts.tpl"
+			],
+			[
+				"scritstpl",
+				"src\\tpl\\scripts.tpl"
+			],
+			[
+				"stytpl",
+				"src\\tpl\\styles.tpl"
+			],
+			[
+				"scriptstpl",
+				"src\\tpl\\scripts.tpl"
+			],
+			[
+				"scripts",
+				"src\\js\\scripts.js"
+			],
+			[
+				"tpag",
+				"src\\tpl\\template_pagine.tpl"
+			],
+			[
+				"scri",
+				"src\\js\\scripts.js"
+			],
+			[
+				"template",
+				"src\\tpl\\template_pagine.tpl"
+			],
+			[
+				"languages",
+				"src\\tpl\\languages\\languages.tpl"
+			],
+			[
+				"language",
+				"src\\tpl\\languages\\languages.tpl"
+			],
+			[
+				"navigation",
+				"src\\tpl\\wabi\\commons\\navigation\\navigation_item.tpl"
+			],
+			[
+				"tpa",
+				"src\\tpl\\template_pagine.tpl"
+			],
+			[
+				"formpre",
+				"src\\tpl\\form_prenotazione.tpl"
+			],
+			[
+				"sty",
+				"src\\css\\style.css"
+			],
+			[
+				"box",
+				"src\\tpl\\recensioni\\box_recensioni.tpl"
+			],
+			[
+				"recens",
+				"D:\\Wabisabi\\Siti\\GM Hotels\\2014\\desktop\\layout-b\\src\\tpl\\recensioni\\box_recensioni.tpl"
+			],
+			[
+				"styl",
+				"src\\css\\style.css"
+			],
+			[
+				"re",
+				"src\\tpl\\recensioni.tpl"
+			],
+			[
+				"tem",
+				"src\\tpl\\template_pagine.tpl"
+			],
+			[
+				"scriptsjs",
+				"src\\js\\scripts.js"
+			],
+			[
+				"highli",
+				"src\\tpl\\highlights_showcase.tpl"
+			],
+			[
+				"t",
+				"src\\tpl\\template_pagine.tpl"
+			],
+			[
+				"home",
+				"src\\tpl\\homepage_showcase.tpl"
+			],
+			[
+				"tpagi",
+				"src\\tpl\\template_pagine.tpl"
+			],
+			[
+				"box_re",
+				"src\\tpl\\recensioni\\box_recensioni.tpl"
+			],
+			[
+				"recensioni",
+				"src\\tpl\\recensioni\\recensione1.tpl"
+			],
+			[
+				"recensione",
+				"src\\tpl\\recensioni\\recensione.tpl"
+			],
+			[
+				"recensioni.tpl",
+				"src\\tpl\\recensioni\\recensione1.tpl"
+			],
+			[
+				"recensionetpl",
+				"src\\tpl\\recensioni\\recensione.tpl"
+			],
+			[
+				"reensioni_rec",
+				"src\\tpl\\recensioni_recall.tpl"
+			],
+			[
+				"scrijs",
+				"src\\js\\scripts.js"
+			],
+			[
+				"search",
+				"src\\tpl\\wabi\\commons\\search\\search.tpl"
+			],
+			[
+				"stylecss",
+				"src\\css\\style.css"
+			],
+			[
+				"languag",
+				"src\\tpl\\languages\\languages.tpl"
+			],
+			[
+				"div_im",
+				"src\\tpl\\photogallery\\div_image.tpl"
+			],
+			[
+				"thum",
+				"src\\tpl\\photogallery\\thumb_2.tpl"
+			],
+			[
+				"homp",
+				"src\\tpl\\homepage_showcase.tpl"
+			],
+			[
+				"hig",
+				"src\\tpl\\highlights_showcase.tpl"
+			],
+			[
+				"scriptsptl",
+				"src\\tpl\\scripts.tpl"
+			],
+			[
+				"temp",
+				"src\\tpl\\template_pagine.tpl"
+			],
+			[
+				"form_pre",
+				"src\\tpl\\form_prenotazione.tpl"
+			],
+			[
+				"tyle",
+				"src\\css\\style.css"
+			],
+			[
+				"form_pr",
+				"src\\tpl\\form_prenotazione.tpl"
+			],
+			[
+				"form_preno",
+				"src\\tpl\\form_prenotazione.tpl"
+			],
+			[
+				"build",
+				"build.json"
+			],
+			[
+				"guielement",
+				".monkey_build\\output\\gui\\guielement.monkey"
+			],
+			[
+				"guibut",
+				".monkey_build\\output\\gui\\guibutton.monkey"
+			],
+			[
+				"guilayout",
+				".monkey_build\\output\\gui\\guilayout.monkey"
+			],
+			[
+				"vlayout",
+				".monkey_build\\output\\gui\\guivlayout.monkey"
+			],
+			[
+				"gui",
+				".monkey_build\\output\\gui\\gui.monkey"
+			],
+			[
+				"statexml",
+				"src\\monkey\\data\\layouts\\StateMainMenu.xml"
+			],
+			[
+				"appstate",
+				".monkey_build\\output\\engine\\core\\appstate.monkey"
+			],
+			[
+				"stateunitselemonkey",
+				"src\\monkey\\stateunitselection.monkey"
+			],
+			[
+				"statemainmenu",
+				"src\\monkey\\statemainmenu.monkey"
+			],
+			[
+				"stateunits",
+				"src\\monkey\\data\\layouts\\StateUnitSelection.xml"
+			],
+			[
+				"statedemoba",
+				"src\\monkey\\statedemobattle.monkey"
+			],
+			[
+				"state",
+				"src\\monkey\\statemainmenu.monkey"
+			],
+			[
+				"weapon",
+				"src\\monkey\\weapon.monkey"
+			],
+			[
+				"core",
+				".monkey_build\\output\\engine\\core\\core.monkey"
+			],
+			[
+				"statemainmen",
+				"src\\monkey\\statemainmenu.monkey"
+			],
+			[
+				"main",
+				".monkey_build\\output\\main.monkey"
+			],
+			[
+				"statemaunm",
+				"src\\monkey\\statemainmenu.monkey"
+			],
+			[
+				"main.",
+				".monkey_build\\output\\main.monkey"
+			],
+			[
+				"parc",
+				".monkey_build\\output\\particles\\particle.monkey"
+			],
+			[
+				"pari",
+				".monkey_build\\output\\particles\\particle.monkey"
+			],
+			[
+				"rundata",
+				".taskrunner\\run.data.json"
+			],
+			[
+				"unit",
+				"src\\monkey\\unit.monkey"
+			],
+			[
+				"iwea",
+				"src\\monkey\\interfaces\\iweapon.monkey"
+			],
+			[
+				"dataman",
+				".monkey_build\\output\\engine\\core\\datamanager.monkey"
+			],
+			[
+				"srccore",
+				".monkey_build\\output\\modules\\engine\\core\\core.monkey"
+			],
+			[
+				"statenuitse",
+				"src\\monkey\\stateunitselection.monkey"
+			],
+			[
+				"main.mo",
+				".monkey_build\\output\\main.monkey"
+			],
+			[
+				"map",
+				".monkey_build\\output\\engine\\core\\appstate.monkey"
+			],
+			[
+				"outmain",
+				".monkey_build\\output\\main.monkey"
+			],
+			[
+				"bullet",
+				"src/monkey/bullet.monkey"
+			],
+			[
+				"demoba",
+				"src/monkey/statedemobattle.monkey"
+			],
+			[
+				"wefact",
+				"src/monkey/weaponfactory.monkey"
+			],
+			[
+				"bufacto",
+				"src/monkey/bulletfactory.monkey"
+			],
+			[
+				"unit.",
+				"src/monkey/unit.monkey"
+			],
+			[
+				"forwardmo",
+				"src/monkey/forwardmovement.monkey"
+			],
+			[
+				"unitphy",
+				"src/monkey/unitphysics.monkey"
+			],
+			[
+				"unitrenderer",
+				"src/monkey/flyingunitrenderer.monkey"
+			],
+			[
+				"unitfa",
+				"src/monkey/unitfactory.monkey"
+			],
+			[
+				"movement",
+				"src/monkey/movement.monkey"
+			],
+			[
+				"unitfact",
+				"src/monkey/unitfactory.monkey"
+			],
+			[
+				"forwardm",
+				"src/monkey/forwardmovement.monkey"
+			],
+			[
+				"player",
+				"src/monkey/player.monkey"
+			],
+			[
+				"unitph",
+				"src/monkey/unitphysics.monkey"
+			],
+			[
+				"battlefie",
+				"src/monkey/battlefield.monkey"
+			],
+			[
+				"iphysi",
+				".monkey_build/output/physics/physicssimulation.monkey"
+			],
+			[
+				"batt",
+				"src/monkey/battlefield.monkey"
+			],
+			[
+				"battle",
+				"src/monkey/battlefield.monkey"
+			],
+			[
+				"statebattl",
+				"src/monkey/statedemobattle.monkey"
+			],
+			[
+				"imov",
+				"src/monkey/interfaces/imovement.monkey"
+			],
+			[
+				"inputcontr",
+				".monkey_build/output/input/inputcontroller.monkey"
+			],
+			[
+				"inp",
+				".monkey_build/output/box2d/collision/b2toiinput.monkey"
+			],
+			[
+				"ip",
+				"src/android/Destroyetor/app/build/intermediates/res/debug/layout/abc_popup_menu_item_layout.xml"
+			],
+			[
+				"iplay",
+				"src/monkey/interfaces/iplayercontrol.monkey"
+			],
+			[
+				"",
+				"src/monkey/data/layouts/StateUnitSelection.xml"
+			],
+			[
+				"mogame.ht",
+				"src/html5/MonkeyGame.html"
+			],
+			[
+				"unitsele",
+				"src/monkey/data/layouts/StateUnitSelection.xml"
+			],
+			[
+				"build.",
+				"build.json"
+			],
+			[
+				"demob",
+				"src/monkey/statedemobattle.monkey"
+			],
+			[
+				"battlefield",
+				"src/monkey/battlefield.monkey"
+			],
+			[
+				"statedemob",
+				"src/monkey/statedemobattle.monkey"
+			],
+			[
+				"weapon.",
+				"src/monkey/weapon.monkey"
+			],
+			[
+				"wea",
+				"src/monkey/weaponfactory.monkey"
+			],
+			[
+				"ibull",
+				"src/monkey/interfaces/ibullet.monkey"
+			],
+			[
+				"iunit",
+				"src/monkey/interfaces/iunit.monkey"
+			],
+			[
+				"ibul",
+				"src/monkey/interfaces/ibullet.monkey"
+			],
+			[
+				"weap",
+				"src/monkey/weapon.monkey"
+			],
+			[
+				"iweap",
+				".monkey_build/output/interfaces/iweapon.monkey"
+			],
+			[
+				"wefa",
+				"src/monkey/weaponfactory.monkey"
+			],
+			[
+				"bull",
+				"src/monkey/bullet.monkey"
+			],
+			[
+				"unitf",
+				"src/monkey/unitfactory.monkey"
+			],
+			[
+				"b2circlsh",
+				".monkey_build/output/box2d/collision/shapes/b2circleshape.monkey"
+			],
+			[
+				"b2polygonshape",
+				".monkey_build/output/box2d/collision/shapes/b2polygonshape.monkey"
+			],
+			[
+				"ufact",
+				"src/monkey/unitfactory.monkey"
+			],
+			[
+				"battlef",
+				"src/monkey/battlefield.monkey"
+			],
+			[
+				"iplayerc",
+				"src/monkey/interfaces/iplayercontrol.monkey"
+			],
+			[
+				"iplayerco",
+				"src/monkey/interfaces/iplayercontrol.monkey"
+			],
+			[
+				"wef",
+				"src/monkey/weaponfactory.monkey"
+			],
+			[
+				"weapo",
+				"src/monkey/weapon.monkey"
+			],
+			[
+				"b2body",
+				".monkey_build/output/box2d/dynamics/b2body.monkey"
+			],
+			[
+				"ai.mo",
+				"src/monkey/ai.monkey"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mech ac",
+				"C:\\Users\\Jose\\Dropbox\\Oscar Wings\\Mech Action RPG\\sublime\\Progetto Mech Action RPG.sublime-project"
+			],
+			[
+				"turqu",
+				"D:\\Wabisabi\\Siti\\Hotel Turquoise\\2014\\desktop\\project\\Hotel Turquoise 2014 - desktop.sublime-project"
+			],
+			[
+				"layout a",
+				"D:\\Wabisabi\\Siti\\GM Hotels\\2014\\desktop\\layout-a\\project\\GM Hotels 2014 - desktop - layout A.sublime-project"
+			],
+			[
+				"spotring",
+				"D:\\Wabisabi\\Siti\\Hotel Sporting\\2014\\desktop\\project\\Hotel Sporting 2014 - desktop.sublime-project"
+			],
+			[
+				"layouta",
+				"D:\\Wabisabi\\Siti\\GM Hotels\\2014\\desktop\\layout-a\\project\\GM Hotels 2014 - desktop - layout A.sublime-project"
+			],
+			[
+				"LAYOUTA",
+				"D:\\Wabisabi\\Siti\\GM Hotels\\2014\\desktop\\layout-a\\project\\GM Hotels 2014 - desktop - layout A.sublime-project"
+			],
+			[
+				"hotelamar",
+				"D:\\Wabisabi\\Siti\\Hotel dell'Amarissimo\\2014\\desktop\\project\\Hotel dell'Amarissimo 2014 - desktop.sublime-project"
+			],
+			[
+				"imperial",
+				"D:\\Wabisabi\\Siti\\Hotel Imperiale\\2014\\desktop\\project\\Hotel Imperiale 2014 - desktop.sublime-project"
+			],
+			[
+				"adria",
+				"D:\\Wabisabi\\Siti\\Adria Italy Hotels\\2014\\desktop\\project\\Adria Italy Hotels 2014 - desktop.sublime-project"
+			],
+			[
+				"imperiale4",
+				"D:\\Wabisabi\\Siti\\Hotel Imperiale\\2014\\desktop\\project\\Hotel Imperiale 2014 - desktop.sublime-project"
+			],
+			[
+				"impe4",
+				"D:\\Wabisabi\\Siti\\Hotel Imperiale\\2014\\desktop\\project\\Hotel Imperiale 2014 - desktop.sublime-project"
+			],
+			[
+				"task ru",
+				"~/Dropbox/Jose/workshop/perl/Task Runner/project/Perl Task Runner.sublime-project"
+			],
+			[
+				"test0",
+				"~/Dropbox/Jose/workshop/perl/game_builder/test0/project/Monkey Build Advanced  - Test 0.sublime-project"
+			],
+			[
+				"perl task ru",
+				"~/Dropbox/Jose/workshop/perl/Task Runner/project/Perl Task Runner.sublime-project"
+			],
+			[
+				"test 0",
+				"~/Dropbox/Jose/workshop/perl/game_builder/test0/project/Monkey Build Advanced  - Test 0.sublime-project"
+			],
+			[
+				"mobua",
+				"~/Dropbox/Jose/workshop/perl/game_builder/test0/project/Monkey Build Advanced  - Test 0.sublime-project"
+			],
+			[
+				"ristsi",
+				"/media/Data/Wabisabi/Siti/Ristorante Side/2014/desktop/project/Ristorante Side 2014 - desktop.sublime-workspace"
+			],
+			[
+				"rockp",
+				"/media/Data/Wabisabi/Siti/Rock Planet/2014/desktop/project/Rock Planet 2014 - desktop.sublime-project"
+			],
+			[
+				"escursio",
+				"/media/Data/Wabisabi/Siti/Escursioni Abruzzo/2014/desktop/project/Escursioni Abruzzo 2014 - desktop.sublime-project"
+			],
+			[
+				"oscarw",
+				"~/Dropbox/Oscar Wings/Website/2014/project/Oscar Wings 2014.sublime-project"
+			],
+			[
+				"rock pla",
+				"/media/Data/Wabisabi/Siti/Rock Planet/2014/desktop/project/Rock Planet 2014 - desktop.sublime-project"
+			],
+			[
+				"rock pl",
+				"/media/Data/Wabisabi/Siti/Rock Planet/2014/desktop/project/Rock Planet 2014 - desktop.sublime-workspace"
+			],
+			[
+				"rock",
+				"/media/Data/Wabisabi/Siti/Rock Planet/2014/desktop/project/Rock Planet 2014 - desktop.sublime-project"
+			],
+			[
+				"rockpln",
+				"/media/Data/Wabisabi/Siti/Rock Planet/2014/desktop/project/Rock Planet 2014 - desktop.sublime-project"
+			],
+			[
+				"escu",
+				"/media/Data/Wabisabi/Siti/Escursioni Abruzzo/2014/desktop/project/Escursioni Abruzzo 2014 - desktop.sublime-project"
+			],
+			[
+				"layout",
+				"~/Dropbox/Jose/workshop/monkey/projects/layouts/project/layouts.sublime-project"
+			],
+			[
+				"mech ta",
+				"/media/OS/Users/Jose/Dropbox/Oscar Wings/Mech Tactics/project/Mech Tactics project.sublime-project"
+			],
+			[
+				"dung",
+				"/media/OS/Users/Jose/Dropbox/Jose/workshop/monkey/projects/dungeonrpg/project/dungeonrpg.sublime-project"
+			],
+			[
+				"snake",
+				"/media/OS/Users/Jose/Dropbox/Jose/workshop/monkey/projects/snake/project/Snake.sublime-project"
+			],
+			[
+				"aless",
+				"D:\\Wabisabi\\Siti\\Sito Alessandro\\2013\\desktop\\sublime\\Sito Alessandro 2013 - desktop.sublime-project"
+			],
+			[
+				"ales",
+				"D:\\Wabisabi\\Siti\\Sito Alessandro\\2013\\desktop\\sublime\\Sito Alessandro 2013 - desktop.sublime-project"
+			],
+			[
+				"sit ale",
+				"D:\\Wabisabi\\Siti\\Sito Alessandro\\2013\\desktop\\sublime\\Sito Alessandro 2013 - desktop.sublime-project"
+			],
+			[
+				"sito ale",
+				"D:\\Wabisabi\\Siti\\Sito Alessandro\\2013\\desktop\\sublime\\Sito Alessandro 2013 - desktop.sublime-project"
+			],
+			[
+				"scilia",
+				"D:\\Wabisabi\\Siti\\Hotel Sciliar\\2013\\desktop\\sublime\\Hotel Scillar 2013 - desktop.sublime-project"
+			],
+			[
+				"isi",
+				"D:\\Wabisabi\\Siti\\ISI\\2012\\sublime\\ISI 2012.sublime-project"
+			],
+			[
+				"ohboid",
+				"C:\\Users\\Jose\\Dropbox\\Ohboid\\Ohboid website\\2013\\wp\\sublime\\Ohboid 2013 website.sublime-project"
+			],
+			[
+				"scili",
+				"D:\\Wabisabi\\Siti\\Hotel Sciliar\\2013\\desktop\\sublime\\Hotel Scillar 2013 - desktop.sublime-project"
+			],
+			[
+				"template",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"wabi tem",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"wabi ",
+				"D:\\Wabisabi\\Applications\\Wabi template generator\\Wabi template generator.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\sublime\\Perl CMS.sublime-project"
+			],
+			[
+				"perl",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\sublime\\Perl CMS.sublime-project"
+			],
+			[
+				"cms verti",
+				"D:\\Wabisabi\\Siti\\cms verticale\\sublime\\CMS Verticale 2013.sublime-project"
+			],
+			[
+				"verti",
+				"D:\\Wabisabi\\Siti\\cms verticale\\sublime\\CMS Verticale 2013.sublime-project"
+			],
+			[
+				"prel",
+				"C:\\Users\\Jose\\Dropbox\\Jose\\workshop\\perl\\cms\\sublime\\Perl CMS.sublime-project"
+			],
+			[
+				"giglio",
+				"D:\\Wabisabi\\Siti\\Hotel Gigliola\\2013\\desktop\\sublime\\Hotel Gigliola 2013.sublime-project"
+			],
+			[
+				"zala",
+				"D:\\Wabisabi\\Siti\\Progetto Zalando\\2013\\desktop\\sublime\\Progetto Zalando 2013 - desktop.sublime-project"
+			],
+			[
+				"iuma",
+				"D:\\Wabisabi\\Siti\\Iuma Style\\2013\\desktop\\sublime\\Iuma Style 2013 - desktop.sublime-project"
+			],
+			[
+				"jose",
+				"/C/Users/Jose/Dropbox/Jose/workshop/websites/Jose Faeti/2013/sublime/Jose Faeti 2013.sublime-project"
+			],
+			[
+				"caos",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Caos Animazione/Company website/2013/desktop/sublime/Caos Animazione 2013 - desktop.sublime-project"
+			],
+			[
+				"recen",
+				"/C/Users/Jose/Dropbox/Wabisabi/Applications/Recensioni/sublime/Recensioni.sublime-project"
+			],
+			[
+				"coccio",
+				"/C/Users/Jose/Dropbox/Wabisabi/Siti/Il Coccio/2013/desktop/sublime/Il Coccio 2013 desktop.sublime-project"
+			],
+			[
+				"dabuda",
+				"/C/Users/Jose/Dropbox/Oscar Wings/The Fantasy Goose Game/Dabuda.sublime-project"
+			]
+		],
+		"width": 620.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"array",
+				"ArrayBuffer"
+			],
+			[
+				"arraybu",
+				"ArrayBuffer"
+			],
+			[
+				"assertnotnu",
+				"AssertNotNull"
+			],
+			[
+				"update",
+				"Update"
+			]
+		],
+		"width": 404.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 234.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

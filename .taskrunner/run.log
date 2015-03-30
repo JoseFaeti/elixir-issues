@@ -1,0 +1,537 @@
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Missing run.json file in C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner. Unable to continue.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:15:39
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[10] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Error encountered while performing run: Error encountered while trying to parse file run.json as JSON: malformed JSON string, neither array, object, number, string or atom, at character offset 0 (before "(end of string)") at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Util.pm line 40.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:15:50
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Error encountered while performing run: Error encountered while trying to parse file run.json as JSON: JSON text must be an object or array (but found number, string, true, false or null, use allow_nonref to allow this) at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Util.pm line 40.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:15:57
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Error encountered while performing run: Error encountered while trying to parse file run.json as JSON: Run file run.json doesn't seem to contain a valid run definition. Root must be an object. at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Util.pm line 41.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:16:06
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[10] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Error encountered while performing run: Configuration parameter 'run' must be an array at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/RunFactory.pm line 40.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:16:16
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - No tasks to run.
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:18:08
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing test/test_task_runner_test_.exs
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task test/test_task_runner_test_.exs: 1
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Unable to find module test/test_task_runner_test_.exs.
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Error encountered while performing run: Unable to find module test/test_task_runner_test_.exs.(TaskRunner - C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner.pm line 216) at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner.pm line 303.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:19:31
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: test/test_task_runner_test.exs ...
+[41] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[41] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[46] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:19:49
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: 'test/test_task_runner_test.exs' ...
+[32] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:19:58
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: "test/test_task_runner_test.exs" ...
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[31] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[35] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:20:21
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Error encountered while performing run: Error encountered while trying to parse file run.json as JSON: invalid character encountered while parsing JSON string, at character offset 115 (before "\n        }\n    }\n...") at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Util.pm line 40.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:20:29
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: test/test_task_runner_test.exs ...
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[35] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:20:41
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[17] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: ./test/test_task_runner_test.exs ...
+[29] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[29] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[34] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:21:16
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[17] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: ./test/test_task_runner_test.exs ...
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[31] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:21:24
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: './test/test_task_runner_test.exs' ...
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[35] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:21:39
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[10] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[11] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[16] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[17] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[19] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: "./test/test_task_runner_test.exs" ...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[39] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[10] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:22:01
+[11] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[19] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[19] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[22] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: ./test/test_task_runner_test.exs ...
+[34] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[35] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[41] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:22:08
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[10] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: ./test/test_task_runner_test.exs ...
+[32] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:23:19
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Can't use string ("./test/test_task_runner_test.exs") as an ARRAY ref while "strict refs" in use at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/modules/system.pl line 22.
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Error encountered while performing run: Can't use string ("./test/test_task_runner_test.exs") as an ARRAY ref while "strict refs" in use at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/modules/system.pl line 22.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:24:04
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: elixir ./test/test_task_runner_test.exs ...
+[35] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[36] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[40] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:24:51
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[16] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: elixir test/test_task_runner_test.exs ...
+[36] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[41] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:28:14
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: elixir test/test_task_runner_test.exs ...
+[34] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[34] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[39] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:31:54
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: notepad test/test_task_runner_test.exs ...
+[5451] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[5452] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[5456] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:32:10
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: chrome test/test_task_runner_test.exs ...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[34] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[39] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:32:16
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: firefox test/test_task_runner_test.exs ...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[38] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:32:20
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[16] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: ff test/test_task_runner_test.exs ...
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[41] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:32:24
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: java test/test_task_runner_test.exs ...
+[32] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[32] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:32:27
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: calc test/test_task_runner_test.exs ...
+[2668] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[2668] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[2673] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:32:42
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: ENV test/test_task_runner_test.exs ...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[34] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[38] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:33:16
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Can't use string ("calc") as an ARRAY ref while "strict refs" in use at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/modules/system.pl line 22.
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Error encountered while performing run: Can't use string ("calc") as an ARRAY ref while "strict refs" in use at C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/modules/system.pl line 22.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:33:27
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd cmd calc ...
+[53] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: Microsoft Windows [Version 6.2.9200]
+(c) 2012 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner>
+[54] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[58] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:33:49
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd cmd notepad ...
+[26] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: Microsoft Windows [Version 6.2.9200]
+(c) 2012 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner>
+[26] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[31] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:34:00
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd run notepad ...
+[38] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[38] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[43] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:37:32
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd perl -V ...
+[46] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: Summary of my perl5 (revision 5 version 12 subversion 3) configuration:
+   
+  Platform:
+    osname=MSWin32, osvers=5.1, archname=MSWin32-x86-multi-thread
+    uname='Win32 strawberryperl 5.12.3.0 #1 Sun May 15 09:44:53 2011 i386'
+    config_args='undef'
+    hint=recommended, useposix=true, d_sigaction=undef
+    useithreads=define, usemultiplicity=define
+    useperlio=define, d_sfio=undef, uselargefiles=define, usesocks=undef
+    use64bitint=undef, use64bitall=undef, uselongdouble=undef
+    usemymalloc=n, bincompat5005=undef
+  Compiler:
+    cc='gcc', ccflags =' -s -O2 -DWIN32 -DHAVE_DES_FCRYPT  -DUSE_SITECUSTOMIZE -DPERL_IMPLICIT_CONTEXT -DPERL_IMPLICIT_SYS -fno-strict-aliasing -mms-bitfields -DPERL_MSVCRT_READFIX',
+    optimize='-s -O2',
+    cppflags='-DWIN32'
+    ccversion='', gccversion='4.4.3', gccosandvers=''
+    intsize=4, longsize=4, ptrsize=4, doublesize=8, byteorder=1234
+    d_longlong=undef, longlongsize=8, d_longdbl=define, longdblsize=12
+    ivtype='long', ivsize=4, nvtype='double', nvsize=8, Off_t='long long', lseeksize=8
+    alignbytes=8, prototype=define
+  Linker and Libraries:
+    ld='g++', ldflags ='-s -L"C:\Strawberry\perl\lib\CORE" -L"C:\Strawberry\c\lib"'
+    libpth=C:\Strawberry\c\lib C:\Strawberry\c\i686-w64-mingw32\lib
+    libs=-lmoldname -lkernel32 -luser32 -lgdi32 -lwinspool -lcomdlg32 -ladvapi32 -lshell32 -lole32 -loleaut32 -lnetapi32 -luuid -lws2_32 -lmpr -lwinmm -lversion -lodbc32 -lodbccp32 -lcomctl32
+    perllibs=-lmoldname -lkernel32 -luser32 -lgdi32 -lwinspool -lcomdlg32 -ladvapi32 -lshell32 -lole32 -loleaut32 -lnetapi32 -luuid -lws2_32 -lmpr -lwinmm -lversion -lodbc32 -lodbccp32 -lcomctl32
+    libc=, so=dll, useshrplib=true, libperl=libperl512.a
+    gnulibc_version=''
+  Dynamic Linking:
+    dlsrc=dl_win32.xs, dlext=dll, d_dlsymun=undef, ccdlflags=' '
+    cccdlflags=' ', lddlflags='-mdll -s -L"C:\Strawberry\perl\lib\CORE" -L"C:\Strawberry\c\lib"'
+
+
+Characteristics of this binary (from libperl): 
+  Compile-time options: MULTIPLICITY PERL_DONT_CREATE_GVSV
+                        PERL_IMPLICIT_CONTEXT PERL_IMPLICIT_SYS
+                        PERL_MALLOC_WRAP PL_OP_SLAB_ALLOC USE_ITHREADS
+                        USE_LARGE_FILES USE_PERLIO USE_PERL_ATOF
+                        USE_SITECUSTOMIZE
+  Built under MSWin32
+  Compiled at May 15 2011 17:02:01
+  %ENV:
+    PERL5LIB="C:\Users\Jose\Dropbox\Jose\workshop\perl\modules"
+    PERLTOOLS="C:\Users\Jose\Dropbox\Jose\workshop\perl\tools"
+    PERL_JSON_BACKEND="JSON::XS"
+    PERL_YAML_BACKEND="YAML"
+  @INC:
+    C:\Users\Jose\Dropbox\Jose\workshop\perl\modules
+    C:/Strawberry/perl/site/lib/MSWin32-x86-multi-thread
+    C:/Strawberry/perl/site/lib
+    C:/Strawberry/perl/vendor/lib
+    C:/Strawberry/perl/lib
+    .
+[46] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[51] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:48:15
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[16] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd perl -V ...
+[34] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 256
+[34] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[39] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[10] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:48:29
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[19] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[19] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[21] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd perl -V ...
+[66] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 0
+[67] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[73] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:48:45
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd elixir test/test_task_runner_test.exs ...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 256
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[38] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:49:11
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd iex ...
+[36] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 256
+[36] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[41] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:49:27
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd iex ...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 256
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[38] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:49:48
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[10] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[17] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd iex ...
+[38] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 256
+[39] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[45] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:52:02
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd cmd /C calc ...
+[25] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 0
+[26] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[31] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:52:16
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd cmd /C calc ...
+[1999] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[2000] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[2003] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:52:23
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[16] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd cmd /C elixir ...
+[32] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[32] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:54:07
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd path /C elixir ...
+[28] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[28] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[32] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:54:25
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: path /C elixir ...
+[29] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[29] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:54:35
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: cmd /C path ...
+[25] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: PATH=C:\Program Files (x86)\Haskell\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin;C:\Program Files (x86)\wkhtmltopdf\;C:\Python\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Git\cmd;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\EasyPHP-5.3.9\php\php539x120214101744;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin;C:\Users\Jose\AppData\Roaming\cabal\bin;C:\Ruby\bin;C:\Users\Jose\AppData\Roaming\npm\;C:\wamp\bin\php\php5.4.3\;C:\wamp\bin\mysql\mysql5.5.24\bin\;C:\Program Files (x86)\PureBasic\Compilers\;C:\asm\nasm\;C:\asm\cdrtools\;C:\asm\dd\;C:\asm\bfi;C:\Program Files (x86)\Monkey\bin;C:\rakudo\bin;C:\;C:\Program Files (x86)\Haskell\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin;C:\Program Files (x86)\wkhtmltopdf\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Python\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Git\cmd;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\EasyPHP-5.3.9\php\php539x120214101744;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin;C:\Users\Jose\AppData\Roaming\cabal\bin;C:\Users\Jose\AppData\Roaming\npm\;C:\wamp\bin\php\php5.4.3\;C:\wamp\bin\mysql\mysql5.5.24\bin\;C:\Program Files (x86)\PureBasic\Compilers\;C:\asm\nasm\;C:\asm\cdrtools\;C:\asm\dd\;C:\asm\bfi;C:\Program Files (x86)\Monkey\bin;C:\rakudo\bin;C:\Users\Jose\AppData\Local\Android\android-studio\sdk;C:\Users\Jose\AppData\Local\Android\android-studio\sdk\tools;C:\Users\Jose\AppData\Local\Android\android-studio\sdk\platform-tools
+[26] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:57:52
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: path /C path ...
+[27] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[27] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[31] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:57:57
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: path ...
+[28] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: PATH=C:\Program Files (x86)\Haskell\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin;C:\Program Files (x86)\wkhtmltopdf\;C:\Python\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Git\cmd;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\EasyPHP-5.3.9\php\php539x120214101744;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin;C:\Users\Jose\AppData\Roaming\cabal\bin;C:\Ruby\bin;C:\Users\Jose\AppData\Roaming\npm\;C:\wamp\bin\php\php5.4.3\;C:\wamp\bin\mysql\mysql5.5.24\bin\;C:\Program Files (x86)\PureBasic\Compilers\;C:\asm\nasm\;C:\asm\cdrtools\;C:\asm\dd\;C:\asm\bfi;C:\Program Files (x86)\Monkey\bin;C:\rakudo\bin;C:\;C:\Program Files (x86)\Haskell\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin;C:\Program Files (x86)\wkhtmltopdf\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Python\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Git\cmd;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\EasyPHP-5.3.9\php\php539x120214101744;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin;C:\Users\Jose\AppData\Roaming\cabal\bin;C:\Users\Jose\AppData\Roaming\npm\;C:\wamp\bin\php\php5.4.3\;C:\wamp\bin\mysql\mysql5.5.24\bin\;C:\Program Files (x86)\PureBasic\Compilers\;C:\asm\nasm\;C:\asm\cdrtools\;C:\asm\dd\;C:\asm\bfi;C:\Program Files (x86)\Monkey\bin;C:\rakudo\bin;C:\Users\Jose\AppData\Local\Android\android-studio\sdk;C:\Users\Jose\AppData\Local\Android\android-studio\sdk\tools;C:\Users\Jose\AppData\Local\Android\android-studio\sdk\platform-tools
+[29] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:58:46
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: path ...
+[27] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: PATH=C:\Program Files (x86)\Haskell\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin;C:\Program Files (x86)\wkhtmltopdf\;C:\Python\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Git\cmd;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\EasyPHP-5.3.9\php\php539x120214101744;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin;C:\Users\Jose\AppData\Roaming\cabal\bin;C:\Ruby\bin;C:\Users\Jose\AppData\Roaming\npm\;C:\wamp\bin\php\php5.4.3\;C:\wamp\bin\mysql\mysql5.5.24\bin\;C:\Program Files (x86)\PureBasic\Compilers\;C:\asm\nasm\;C:\asm\cdrtools\;C:\asm\dd\;C:\asm\bfi;C:\Program Files (x86)\Monkey\bin;C:\rakudo\bin;C:\;C:\Program Files (x86)\Haskell\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\lib\extralibs\bin;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\bin;C:\Program Files (x86)\wkhtmltopdf\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Python\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Git\cmd;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\EasyPHP-5.3.9\php\php539x120214101744;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Heroku\bin;C:\Program Files (x86)\git\cmd;C:\Program Files (x86)\Haskell Platform\2013.2.0.0\mingw\bin;C:\Users\Jose\AppData\Roaming\cabal\bin;C:\Users\Jose\AppData\Roaming\npm\;C:\wamp\bin\php\php5.4.3\;C:\wamp\bin\mysql\mysql5.5.24\bin\;C:\Program Files (x86)\PureBasic\Compilers\;C:\asm\nasm\;C:\asm\cdrtools\;C:\asm\dd\;C:\asm\bfi;C:\Program Files (x86)\Monkey\bin;C:\rakudo\bin;C:\Users\Jose\AppData\Local\Android\android-studio\sdk;C:\Users\Jose\AppData\Local\Android\android-studio\sdk\tools;C:\Users\Jose\AppData\Local\Android\android-studio\sdk\platform-tools
+[28] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[32] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:59:31
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: transcc_winnt ...
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: TRANS monkey compiler V1.62
+TRANS Usage: transcc [-update] [-build] [-run] [-clean] [-config=...] [-target=...] [-cfgfile=...] [-modpath=...] <main_monkey_source_file>
+Valid targets: Desktop_Game Html5_Game
+Valid configs: debug release
+[30] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[35] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 14:59:38
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[9] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[13] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[15] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: elixir ...
+[36] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[36] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[42] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Perl Task Runner, 2015-03-30 15:03:40
+[7] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Running from C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Working directory is C:\Users\Jose\Dropbox\Jose\workshop\elixir\test_task_runner
+[8] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Running file run.json
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Executing system
+[12] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - Total repetitions for task system: 1
+[14] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.system - Executing system command: elixir ...
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.taskrunner - system output: 
+[33] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Updating run data...
+[37] C:\Users\Jose\Dropbox\Jose\workshop\perl\Task Runner/TaskRunner/Log.pm 73 app.main - Run completed.
